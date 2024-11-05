@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Seventeen Wallpaper",
+    "slug": "dark-knight-seventeen-wallpaper",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.drigo.oliveira94.darkknightseventeenwallpaper",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e580d424-ad14-4d2c-97ee-b12982ec168c"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6202074218659375~7480986535",
+    "ios_app_id": "ca-app-pub-6202074218659375~7480986535"
+  }
+}
