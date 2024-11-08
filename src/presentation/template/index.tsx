@@ -13,6 +13,8 @@ import {
   TitleView,
   ToggleThemeView,
   LogoView,
+  SubTitleView,
+  AlignTextView,
 } from './style';
 
 type PageContextType = 'home' | 'list' | 'item';
@@ -55,7 +57,10 @@ export const TemplateRoot: React.FC<Props> = ({
                   source={require('../../../assets/logo-white.png')}
                 />
               )}
-              <TitleView theme={theme}>WALLPAPER</TitleView>
+              <AlignTextView>
+                <TitleView theme={theme}>SEVENTEEN</TitleView>
+                <SubTitleView theme={theme}>WALLPAPER</SubTitleView>
+              </AlignTextView>
             </AlignTitleView>
           )}
           {page === 'list' && (

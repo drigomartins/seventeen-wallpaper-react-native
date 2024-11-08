@@ -30,12 +30,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e580d424-ad14-4d2c-97ee-b12982ec168c"
+        "projectId": "14d7073a-323d-4049-9efd-5a6443e45d40"
       }
     }
   },
   "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-6202074218659375~7480986535",
-    "ios_app_id": "ca-app-pub-6202074218659375~7480986535"
+    "android_app_id": "ca-app-pub-6202074218659375~3904180517",
+    "ios_app_id": "ca-app-pub-6202074218659375~3904180517"
   }
 }

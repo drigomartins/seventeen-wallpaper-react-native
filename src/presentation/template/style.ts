@@ -35,7 +35,13 @@ export const ToggleThemeView = styled.TouchableOpacity`
   width: 25px;
   height: 25px;
 `;
-export const AlignTitleView = styled.View``;
+export const AlignTitleView = styled.View`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+`;
+export const AlignTextView = styled.View``;
 
 export const SubTitleView = styled.Text<Props>`
   font-size: 12px;
@@ -43,13 +49,13 @@ export const SubTitleView = styled.Text<Props>`
 `;
 export const TitleView = styled.Text<Props>`
   font-size: 18px;
-  font-weight: 300;
+  font-weight: bold;
   width: 200px;
   color: ${(props) => (props.theme === 'light' ? '#292d3e' : '#ffffff')};
 `;
 export const PressableView = styled.Pressable``;
 
 export const LogoView = styled.Image<Props>`
-  width: 80px;
-  height: 20px;
+  width: 40px;
+  height: 35px;
 `;
