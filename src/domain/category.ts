@@ -1,7 +1,18 @@
 export type Category =
-  | 'tomorrow-x-together'
-  | 'yeonjun'
-  | 'soobin'
-  | 'taehyun'
-  | 'beomgyu'
-  | 'huening-kai';
+  | 'Kim-Min-gyu'
+  | 'Joshua Hong'
+  | 'Jeon Wonwoo'
+  | 'The8'
+  | 'Yoon jeong han'
+  | 'DK'
+  | 'Wen Junhui'
+  | 'Woozi'
+  | 'Choi Seung-cheol'
+  | 'Seungkwan'
+  | 'Vernon'
+  | 'Hoshi'
+  | 'Dino'
+  | 'Seventeen'
+
+
+

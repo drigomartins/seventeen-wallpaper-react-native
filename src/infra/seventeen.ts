@@ -1,0 +1,130 @@
+import { WallpaperItem } from '@/domain';
+
+export const seventeen: WallpaperItem[] = [
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/5c/0f/ca/5c0fca5ef92ed81288572bfe64c55b31.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/76/a5/87/76a5877e1614a05fb63906c26ed99957.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/25/f6/42/25f642fae4d6acd143d775c88247fc2d.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/49/b9/63/49b9630cd82ff189031f9600ba9dc44c.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/7c/28/4c/7c284cca15beda8909f1e9b387e5a32f.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/2e/6b/b2/2e6bb298199ffe8e5d2044367c168089.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/88/32/5e/88325eb4556a32ef0d81b4826e5637cf.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/e5/1b/a1/e51ba1baf1c0ff900ae4a78897d5fb6a.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/8e/e1/94/8ee19452a604ca277d528c2a22a91b4a.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/95/e0/b3/95e0b32dc2a38f50fb1e33728b8bd3ff.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/58/f2/50/58f250c99b2331b4f832fea5efef4b11.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/aa/0b/b6/aa0bb68a0ea15526eb482ea25c9a8325.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/67/e7/ac/67e7aca2dbd47ba1b32bd64508f1af3c.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/f9/5b/ea/f95beac543a2c4ce7225fa7a4b4c86eb.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/cd/29/84/cd2984297b64d0faf11d71319bcc1f7b.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/76/74/a3/7674a3d7898ae50a3da1a6fe13ffeee4.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/21/10/aa/2110aa811783c64d34793969b4968d46.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/60/37/19/603719c9f9cc007777cf07029c989786.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/b6/a3/27/b6a3279c43cdbd3ecaf4325dda198d5c.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/564x/b3/89/bd/b389bd2bfa6be57cf34fdd32e48bcc1b.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+  {
+    name: 'Seventeen',
+    link: 'https://i.pinimg.com/736x/24/f1/c3/24f1c3cc865a5c27e083fec7bd7733e6.jpg',
+    category: 'Seventeen',
+    star: false,
+  },
+];
